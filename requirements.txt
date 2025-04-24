@@ -1,0 +1,10 @@
+flask==2.3.2
+torch>=1.13.0
+torchvision>=0.14.0
+opencv-python==4.8.0.76
+pandas==2.2.0
+numpy==1.24.4
+matplotlib==3.7.1
+pyttsx3==2.90
+requests==2.31.0
+Pillow==9.5.0
